@@ -1,4 +1,4 @@
-# Medical Imaging Reconstruction Projects
+# Medical Image Reconstruction Projects
 
 This repository contains three comprehensive projects that explore different techniques and methodologies for image reconstruction using ultrasound, MRI, and CT technologies. Each project is implemented in MATLAB, with detailed well-documented code and plots.
 
